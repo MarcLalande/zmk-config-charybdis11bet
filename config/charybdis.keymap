@@ -69,7 +69,7 @@
 &kp LCTRL       &kp A    &kp S    &kp D     &kp F         &kp G     &kp H      &kp J          &kp K      &kp L       &kp SEMI     &kp APOS
 &kp LEFT_SHIFT  &lt 3 Z  &lt 5 X  &kp C     &kp V         &kp B     &kp N      &kp M          &kp COMMA  &kp PERIOD  &lt 3 SLASH  &kp RSHFT
                                   &kp LGUI  &kp SPACE     &mo 4     &kp ENTER  &kp BACKSPACE
-                                            &kp LEFT_ALT  &mo 1     &mo 2
+                                            &mkp RCLK     &mkp LCLK &mo 2
             >;
         };
 
